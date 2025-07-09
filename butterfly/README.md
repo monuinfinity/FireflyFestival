@@ -1,4 +1,5 @@
 For running this code:
+go to the lib folder and then run firefly.ex file
 terminal: iex firefly.ex 
 then FireflyFestival.start() , you can pass number of fireflies. i have default set it to 50.
 
